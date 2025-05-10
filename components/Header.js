@@ -6,7 +6,7 @@ function Header() {
                     <div className="flex justify-between h-16 items-center">
                         <div className="flex items-center">
                             <a href="#" data-name="logo" className="text-2xl font-bold text-blue-600">
-                                JobConnect
+                                SkropNet
                             </a>
                         </div>
                         <div className="flex space-x-4">
